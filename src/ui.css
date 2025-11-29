@@ -1,0 +1,10 @@
+body {
+    background-color: #121212;
+    color: #ffffff;           
+}
+
+button {
+    background-color: #333333;
+    color: #ffffff;
+    border: 1px solid #555555;
+}
